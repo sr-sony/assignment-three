@@ -1,0 +1,9 @@
+
+
+.brightness{
+    filter: brightness(50%);
+}
+
+.carousel-font h5{
+    font-size: 4vw;
+}
