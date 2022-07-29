@@ -4,6 +4,14 @@
     filter: brightness(50%);
 }
 
-.carousel-font h5{
-    font-size: 4vw;
+.font-dark{
+    color: #4A4A4A;
+}
+
+.font-gray{
+    color: #777777;
+}
+
+.background-light{
+    background: rgba(40, 155, 222, 0.1);
 }
